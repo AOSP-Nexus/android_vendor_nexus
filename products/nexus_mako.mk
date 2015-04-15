@@ -22,6 +22,7 @@ OVERLAY_TARGET := nexus_xhdpi
 # Include Nexus configs
 include vendor/nexus/configs/version.mk
 include vendor/nexus/configs/common.mk
+include vendor/nexus/configs/bootanimation.mk
 
 # Inherit AOSP device configuration
 $(call inherit-product, device/lge/mako/full_mako.mk)
