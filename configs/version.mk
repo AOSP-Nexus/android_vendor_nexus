@@ -1,4 +1,4 @@
-# Copyright (C) 2014  AOSP-Nexus
+# Copyright (C) 2015  AOSP-Nexus
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@ export VENDOR := nexus
 
 # Version info
 ROM_VERSION_BRANCH := LOLLIPOP
-ROM_VERSION_BUILD := R1.8
+ROM_VERSION_BUILD := R1.9
 
 VERSION := $(ROM_VERSION_BRANCH)-$(ROM_VERSION_BUILD)
 
